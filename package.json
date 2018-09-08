@@ -1,0 +1,15 @@
+{
+  "name": "foodhack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "lowdb": "^1.0.0",
+    "ogmneo": "^1.0.4",
+    "uuid-v4": "^0.1.0"
+  }
+}

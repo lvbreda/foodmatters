@@ -1,0 +1,1356 @@
+[
+    {
+        "id": 12,
+        "name": [
+            "fresh spinach leaves",
+            "fresh spinach leaves"
+        ],
+        "amount": 230,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 14,
+        "name": [
+            "fresh onions",
+            "fresh onion"
+        ],
+        "amount": 2,
+        "unit": null,
+        "groupName": "parsley root"
+    },
+    {
+        "id": 16,
+        "name": [
+            "shallot",
+            "shallot"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "parsley root"
+    },
+    {
+        "id": 17,
+        "name": [
+            "leek"
+        ],
+        "amount": 1,
+        "unit": "stalk of",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 18,
+        "name": [
+            "scallion"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "parsley root"
+    },
+    {
+        "id": 19,
+        "name": [
+            "fresh garlic",
+            "fresh garlic"
+        ],
+        "amount": 2,
+        "unit": "cloves of",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 20,
+        "name": [
+            "garlic powder"
+        ],
+        "amount": 0.25,
+        "unit": "teaspoon of",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 21,
+        "name": [
+            "cauliflower",
+            "cauliflower"
+        ],
+        "amount": 1,
+        "unit": "head of",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 22,
+        "name": [
+            "broccoli",
+            "broccoli"
+        ],
+        "amount": 1,
+        "unit": "head of",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 33,
+        "name": [
+            "capers"
+        ],
+        "amount": 20,
+        "unit": "grams",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 35,
+        "name": [
+            "avocados"
+        ],
+        "amount": 3,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 37,
+        "name": [
+            "cucumber",
+            "cucumber"
+        ],
+        "amount": 0.5,
+        "unit": "small",
+        "groupName": null
+    },
+    {
+        "id": 40,
+        "name": [
+            "fresh red chili pepper",
+            "fresh red chili pepper"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 41,
+        "name": [
+            "fresh tomatoes",
+            "fresh tomato"
+        ],
+        "amount": 2,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 43,
+        "name": [
+            "canned tomatoes",
+            "canned tomatoes"
+        ],
+        "amount": 400,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 49,
+        "name": [
+            "canned black beans"
+        ],
+        "amount": 435,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 61,
+        "name": [
+            "canned chickpeas"
+        ],
+        "amount": 400,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 66,
+        "name": [
+            "celery"
+        ],
+        "amount": 1,
+        "unit": "stalk of",
+        "groupName": null
+    },
+    {
+        "id": 68,
+        "name": [
+            "potatoes",
+            "potatoes"
+        ],
+        "amount": 3,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 71,
+        "name": [
+            "kohlrabis"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 73,
+        "name": [
+            "carrots",
+            "carrot"
+        ],
+        "amount": 300,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 81,
+        "name": [
+            "sweet potatoes",
+            "sweet potatoes"
+        ],
+        "amount": 500,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 83,
+        "name": [
+            "fresh white champignons"
+        ],
+        "amount": 150,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 114,
+        "name": [
+            "apples",
+            "apple"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": "Fruits"
+    },
+    {
+        "id": 134,
+        "name": [
+            "strawberries"
+        ],
+        "amount": 400,
+        "unit": "grams",
+        "groupName": "Fruits"
+    },
+    {
+        "id": 138,
+        "name": [
+            "blueberries"
+        ],
+        "amount": 300,
+        "unit": "grams",
+        "groupName": "Fruits"
+    },
+    {
+        "id": 150,
+        "name": [
+            "almonds"
+        ],
+        "amount": 80,
+        "unit": "grams",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 156,
+        "name": [
+            "limes",
+            "lime"
+        ],
+        "amount": 4,
+        "unit": null,
+        "groupName": "Fruits"
+    },
+    {
+        "id": 158,
+        "name": [
+            "lemon",
+            "lemon"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Fruits"
+    },
+    {
+        "id": 160,
+        "name": [
+            "orange"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Fruits"
+    },
+    {
+        "id": 175,
+        "name": [
+            "pomegranate"
+        ],
+        "amount": 0.5,
+        "unit": null,
+        "groupName": "Fruits"
+    },
+    {
+        "id": 182,
+        "name": [
+            "mangoes",
+            "mango"
+        ],
+        "amount": 2,
+        "unit": null,
+        "groupName": "Fruits"
+    },
+    {
+        "id": 189,
+        "name": [
+            "whole chicken"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Meat"
+    },
+    {
+        "id": 190,
+        "name": [
+            "chicken breasts",
+            "chicken breasts"
+        ],
+        "amount": 2,
+        "unit": null,
+        "groupName": "Meat"
+    },
+    {
+        "id": 221,
+        "name": [
+            "pork belly"
+        ],
+        "amount": 1,
+        "unit": "kilogram",
+        "groupName": "Meat"
+    },
+    {
+        "id": 241,
+        "name": [
+            "minced beef",
+            "minced beef"
+        ],
+        "amount": 600,
+        "unit": "grams",
+        "groupName": "Meat"
+    },
+    {
+        "id": 266,
+        "name": [
+            "lamb chops",
+            "lamb chops"
+        ],
+        "amount": 500,
+        "unit": "grams",
+        "groupName": "Meat"
+    },
+    {
+        "id": 269,
+        "name": [
+            "lamb fillets"
+        ],
+        "amount": 500,
+        "unit": "grams",
+        "groupName": "Meat"
+    },
+    {
+        "id": 272,
+        "name": [
+            "minced lamb"
+        ],
+        "amount": 450,
+        "unit": "grams",
+        "groupName": "Meat"
+    },
+    {
+        "id": 459,
+        "name": [
+            "basmati rice"
+        ],
+        "amount": 240,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 485,
+        "name": [
+            "quinoa",
+            "quinoa"
+        ],
+        "amount": 240,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 523,
+        "name": [
+            "whole cow's milk",
+            "whole cow's milk"
+        ],
+        "amount": 400,
+        "unit": "milliliters",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 541,
+        "name": [
+            "crème fraîche"
+        ],
+        "amount": 100,
+        "unit": "milliliters",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 542,
+        "name": [
+            "yoghurt"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 546,
+        "name": [
+            "whipping cream"
+        ],
+        "amount": 100,
+        "unit": "milliliters",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 564,
+        "name": [
+            "grated mountain cheese",
+            "grated mountain cheese"
+        ],
+        "amount": 50,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 576,
+        "name": [
+            "grated cheddar"
+        ],
+        "amount": 3,
+        "unit": "tablespoons of",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 584,
+        "name": [
+            "grated parmesan",
+            "grated parmesan"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 591,
+        "name": [
+            "butter",
+            "butter"
+        ],
+        "amount": 150,
+        "unit": "grams",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 593,
+        "name": [
+            "ghee",
+            "ghee"
+        ],
+        "amount": 2,
+        "unit": "tablespoons of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 600,
+        "name": [
+            "coconut oil"
+        ],
+        "amount": 2,
+        "unit": "tablespoons of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 608,
+        "name": [
+            "olive oil",
+            "olive oil"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 611,
+        "name": [
+            "sesame oil"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 612,
+        "name": [
+            "sunflower oil",
+            "sunflower oil"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 613,
+        "name": [
+            "soy oil",
+            "soy oil"
+        ],
+        "amount": 3,
+        "unit": "tablespoons of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 623,
+        "name": [
+            "sesame seeds"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 625,
+        "name": [
+            "pine nuts"
+        ],
+        "amount": 70,
+        "unit": "grams",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 634,
+        "name": [
+            "chicken egg",
+            "chicken eggs"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Eggs_and_Egg_Products"
+    },
+    {
+        "id": 640,
+        "name": [
+            "fresh basil"
+        ],
+        "amount": 1,
+        "unit": "sprig of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 649,
+        "name": [
+            "fresh coriander",
+            "fresh coriander"
+        ],
+        "amount": 1,
+        "unit": "sprig of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 655,
+        "name": [
+            "fresh mint",
+            "fresh mint"
+        ],
+        "amount": 15,
+        "unit": "leaves of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 657,
+        "name": [
+            "fresh flat-leaf parsley",
+            "fresh flat-leaf parsley"
+        ],
+        "amount": 20,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 659,
+        "name": [
+            "fresh sage"
+        ],
+        "amount": 4,
+        "unit": "leaves of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 670,
+        "name": [
+            "fresh ginger",
+            "fresh ginger"
+        ],
+        "amount": 2,
+        "unit": "centimeters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 680,
+        "name": [
+            "cumin seeds",
+            "cumin seeds"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 682,
+        "name": [
+            "chili pepper flakes"
+        ],
+        "amount": 0.5,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 706,
+        "name": [
+            "dried basil",
+            "dried basil"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 719,
+        "name": [
+            "dried bay leaf"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 722,
+        "name": [
+            "dried oregano",
+            "dried oregano"
+        ],
+        "amount": 0.25,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 724,
+        "name": [
+            "dried rosemary",
+            "dried rosemary"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 726,
+        "name": [
+            "dried thyme",
+            "dried thyme"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 727,
+        "name": [
+            "yellow curry powder"
+        ],
+        "amount": 1.5,
+        "unit": "teaspoons of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 728,
+        "name": [
+            "garam masala",
+            "garam masala"
+        ],
+        "amount": 2,
+        "unit": "teaspoons of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 731,
+        "name": [
+            "ground ginger"
+        ],
+        "amount": 0.75,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 732,
+        "name": [
+            "curcuma powder",
+            "curcuma powder"
+        ],
+        "amount": 0.75,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 733,
+        "name": [
+            "ground nutmeg",
+            "ground nutmeg"
+        ],
+        "amount": 0.25,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 735,
+        "name": [
+            "ground cinnamon",
+            "ground cinnamon"
+        ],
+        "amount": 0.75,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 736,
+        "name": [
+            "ground coriander",
+            "ground coriander"
+        ],
+        "amount": 2,
+        "unit": "teaspoons of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 739,
+        "name": [
+            "cumin powder",
+            "cumin powder"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 740,
+        "name": [
+            "ground black pepper",
+            "ground black pepper"
+        ],
+        "amount": 1,
+        "unit": "pinch of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 741,
+        "name": [
+            "ground cardamom"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 754,
+        "name": [
+            "red curry paste"
+        ],
+        "amount": 2,
+        "unit": "tablespoons of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 757,
+        "name": [
+            "tomato paste"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 761,
+        "name": [
+            "mayonnaise"
+        ],
+        "amount": 75,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 765,
+        "name": [
+            "dijon mustard"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 768,
+        "name": [
+            "white cooking wine"
+        ],
+        "amount": 2.5,
+        "unit": "deciliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 771,
+        "name": [
+            "beer"
+        ],
+        "amount": 125,
+        "unit": "milimeters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 774,
+        "name": [
+            "soy sauce"
+        ],
+        "amount": 180,
+        "unit": "milliliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 775,
+        "name": [
+            "fish sauce",
+            "fish sauce"
+        ],
+        "amount": 0.5,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 776,
+        "name": [
+            "balsamic vinegar",
+            "balsamic vinegar"
+        ],
+        "amount": 120,
+        "unit": "milliliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 777,
+        "name": [
+            "apple vinegar",
+            "apple vinegar"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 778,
+        "name": [
+            "vegetable stock"
+        ],
+        "amount": 1,
+        "unit": "liter",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 779,
+        "name": [
+            "chicken stock",
+            "chicken stock"
+        ],
+        "amount": 750,
+        "unit": "milliliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 783,
+        "name": [
+            "lemon juice",
+            "lemon juice"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 785,
+        "name": [
+            "coconut cream"
+        ],
+        "amount": 160,
+        "unit": "milliliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 789,
+        "name": [
+            "white sugar",
+            "white sugar"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 790,
+        "name": [
+            "honey",
+            "honey"
+        ],
+        "amount": 2,
+        "unit": "tablespoons of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 792,
+        "name": [
+            "pomegranate molasses"
+        ],
+        "amount": 50,
+        "unit": "milliliters",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 794,
+        "name": [
+            "salt",
+            "salt"
+        ],
+        "amount": 0.25,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 799,
+        "name": [
+            "pearl onions"
+        ],
+        "amount": 50,
+        "unit": "grams",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 800,
+        "name": [
+            "red onion",
+            "red onion"
+        ],
+        "amount": 1,
+        "unit": "large",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 802,
+        "name": [
+            "feta",
+            "feta"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 803,
+        "name": [
+            "green pepper",
+            "green peppers"
+        ],
+        "amount": 0.5,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 804,
+        "name": [
+            "yellow pepper",
+            "yellow peppers"
+        ],
+        "amount": 0.5,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 805,
+        "name": [
+            "red pepper",
+            "red pepper"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 806,
+        "name": [
+            "salted butter"
+        ],
+        "amount": 1,
+        "unit": "tablespoon of",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 807,
+        "name": [
+            "raisins",
+            "raisins"
+        ],
+        "amount": 40,
+        "unit": "grams",
+        "groupName": "Fruits"
+    },
+    {
+        "id": 811,
+        "name": [
+            "wheat flour",
+            "wheat flour"
+        ],
+        "amount": 1.5,
+        "unit": "tablespoons of",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 843,
+        "name": [
+            "fresh lemongrass"
+        ],
+        "amount": 1,
+        "unit": "stalk of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 849,
+        "name": [
+            "precooked beetroots"
+        ],
+        "amount": 6,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 853,
+        "name": [
+            "green olives"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 855,
+        "name": [
+            "breadcrumbs",
+            "breadcrumbs"
+        ],
+        "amount": 50,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 859,
+        "name": [
+            "plain curd",
+            "plain curd"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 860,
+        "name": [
+            "frozen peas",
+            "frozen peas"
+        ],
+        "amount": 400,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 864,
+        "name": [
+            "sushi grade flounder filets"
+        ],
+        "amount": 280,
+        "unit": "grams",
+        "groupName": "Fish_and_other_Proteins"
+    },
+    {
+        "id": 865,
+        "name": [
+            "walnut halves"
+        ],
+        "amount": 190,
+        "unit": "grams",
+        "groupName": "Oils_Fats"
+    },
+    {
+        "id": 869,
+        "name": [
+            "chili powder",
+            "chili powder"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 873,
+        "name": [
+            "fresh green chili pepper",
+            "fresh green chili pepper"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": null
+    },
+    {
+        "id": 877,
+        "name": [
+            "dark chocolate"
+        ],
+        "amount": 150,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 878,
+        "name": [
+            "condensed milk"
+        ],
+        "amount": 400,
+        "unit": "grams",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 879,
+        "name": [
+            "chocolate sprinkles"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 880,
+        "name": [
+            "fresh green beans",
+            "fresh green beans"
+        ],
+        "amount": 130,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 881,
+        "name": [
+            "ginger paste",
+            "ginger paste"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": null
+    },
+    {
+        "id": 882,
+        "name": [
+            "garlic paste",
+            "garlic paste"
+        ],
+        "amount": 0.75,
+        "unit": "teaspoon of",
+        "groupName": null
+    },
+    {
+        "id": 883,
+        "name": [
+            "paprika powder",
+            "paprika powder"
+        ],
+        "amount": 0.5,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 889,
+        "name": [
+            "tahini"
+        ],
+        "amount": 80,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 891,
+        "name": [
+            "ice cubes"
+        ],
+        "amount": 300,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 900,
+        "name": [
+            "white wine vinegar",
+            "white wine vinegar"
+        ],
+        "amount": 1,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 901,
+        "name": [
+            "cheese slice"
+        ],
+        "amount": 1,
+        "unit": null,
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 919,
+        "name": [
+            "peas"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": null
+    },
+    {
+        "id": 994,
+        "name": [
+            "penne"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 999,
+        "name": [
+            "spaghetti",
+            "spaghetti"
+        ],
+        "amount": 200,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    },
+    {
+        "id": 1020,
+        "name": [
+            "basil",
+            "basil"
+        ],
+        "amount": 2,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 1067,
+        "name": [
+            "bacon"
+        ],
+        "amount": 20,
+        "unit": "slices of",
+        "groupName": "Meat"
+    },
+    {
+        "id": 1088,
+        "name": [
+            "milk"
+        ],
+        "amount": 150,
+        "unit": "milliliters",
+        "groupName": "Dairy_Products"
+    },
+    {
+        "id": 1104,
+        "name": [
+            "onion",
+            "onion"
+        ],
+        "amount": 0.5,
+        "unit": "small",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 1136,
+        "name": [
+            "cherry tomatoes"
+        ],
+        "amount": 100,
+        "unit": "grams",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 1140,
+        "name": [
+            "pork roast"
+        ],
+        "amount": 1,
+        "unit": "kilogram",
+        "groupName": "Meat"
+    },
+    {
+        "id": 1144,
+        "name": [
+            "dried red peppers",
+            "dried red peppers"
+        ],
+        "amount": 80,
+        "unit": "grams",
+        "groupName": "parsley root"
+    },
+    {
+        "id": 1145,
+        "name": [
+            "tomato sauce",
+            "tomato sauce"
+        ],
+        "amount": 300,
+        "unit": "grams",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 1146,
+        "name": [
+            "Kashmiri chili powder"
+        ],
+        "amount": 0.75,
+        "unit": "teaspoon of",
+        "groupName": "Herbs_Spices_and_Flavours"
+    },
+    {
+        "id": 1149,
+        "name": [
+            "bulgur"
+        ],
+        "amount": 50,
+        "unit": "grams",
+        "groupName": "Grains_and_Co"
+    }
+]
