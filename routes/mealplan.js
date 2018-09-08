@@ -19,7 +19,7 @@ db.defaults({ mealplans:[] })
 
 function randomFirstMeal (obj) {
     var keys = Object.keys(obj)
-    return keys[ keys.length * Math.random() << 0];
+    return keys[ Math.floor(Math.random() * keys.length)];
 };
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
@@ -97,7 +97,18 @@ function createMealplan(days){
             currentGoodMeals[o].value += temp[currentGoodMeals[o].id].value
         }
         currentGoodMeals = _.sortBy(currentGoodMeals,'value');
-        currentMeal = recipesKeyed[currentGoodMeals.slice(0,1)[0].id];
+        let continueTry = true;
+        let count = 0;
+        while(continueTry){
+            console.log(count);
+            let found = _.find(meals,{id: currentGoodMeals.slice(count,count+1)[0].id})
+            if(!found){
+                continueTry = false
+            }
+            currentMeal = recipesKeyed[currentGoodMeals.slice(count,count+1)[0].id];
+
+            count++;
+        }
     }
     
     return meals;

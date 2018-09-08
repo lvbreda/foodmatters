@@ -909,7 +909,7 @@
         "fullTime": 1680,
         "id": 1,
         "name": "Mango Ceviche",
-        "mainImageUrl": "/data/images/Recipe/PHO_mango-ceviche-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_mango-ceviche-wm.jpg"
     },
     {
         "properties": {
@@ -1237,7 +1237,7 @@
         "fullTime": 1575,
         "id": 4,
         "name": "Basmati Rice",
-        "mainImageUrl": "/data/images/Recipe/PHO_basmati-rice-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_basmati-rice-wm.jpg"
     },
     {
         "properties": {
@@ -1819,7 +1819,7 @@
         "fullTime": 1665,
         "id": 5,
         "name": "Sautéed Quinoa",
-        "mainImageUrl": "/data/images/Recipe/PHO_sauteed-quinoa-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_sauteed-quinoa-wm.jpg"
     },
     {
         "properties": {
@@ -2693,7 +2693,7 @@
         "fullTime": 945,
         "id": 6,
         "name": "Beetroot Avocado Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_beetroot-avocado-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_beetroot-avocado-salad-wm.jpg"
     },
     {
         "properties": {
@@ -3169,7 +3169,7 @@
         "fullTime": 1620,
         "id": 7,
         "name": "Baked Broccoli",
-        "mainImageUrl": "/data/images/Recipe/PHO_baked-broccoli-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_baked-broccoli-wm.jpg"
     },
     {
         "properties": {
@@ -4585,7 +4585,7 @@
         "fullTime": 3025,
         "id": 9,
         "name": "Chicken and Sweet Potato Soup",
-        "mainImageUrl": "/data/images/Recipe/PHO_thai-chicken-potato-soup-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_thai-chicken-potato-soup-wm.jpg"
     },
     {
         "properties": {
@@ -5635,7 +5635,7 @@
         "fullTime": 2490,
         "id": 12,
         "name": "Roasted Sweet Potato Carrot Soup",
-        "mainImageUrl": "/data/images/Recipe/PHO_potato-carrot-soup-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_potato-carrot-soup-wm.jpg"
     },
     {
         "properties": {
@@ -6432,7 +6432,7 @@
         "fullTime": 645,
         "id": 13,
         "name": "Flounder Ceviche",
-        "mainImageUrl": "/data/images/Recipe/PHO_flounder-ceviche-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_flounder-ceviche-wm.jpg"
     },
     {
         "properties": {
@@ -7301,7 +7301,7 @@
         "fullTime": 3480,
         "id": 15,
         "name": "Picadillo Cubano",
-        "mainImageUrl": "/data/images/Recipe/PHO_picadillo-cubano-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_picadillo-cubano-wm.jpg"
     },
     {
         "properties": {
@@ -7816,7 +7816,7 @@
         "fullTime": 990,
         "id": 19,
         "name": "Chickpeas with Onions",
-        "mainImageUrl": "/data/images/Recipe/PHO_chickpeas-onions-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_chickpeas-onions-wm.jpg"
     },
     {
         "properties": {
@@ -8647,7 +8647,7 @@
         "fullTime": 2925,
         "id": 20,
         "name": "Pakistani Kima (Minced Beef Curry)",
-        "mainImageUrl": "/data/images/Recipe/PHO_pakistani-kima-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_pakistani-kima-wm.jpg"
     },
     {
         "properties": {
@@ -9733,7 +9733,7 @@
         "fullTime": 4105,
         "id": 21,
         "name": "Fesenjan (Chicken Pomegranate)",
-        "mainImageUrl": "/data/images/Recipe/PHO_fesenjan-pomegranate-chicken-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_fesenjan-pomegranate-chicken-wm.jpg"
     },
     {
         "properties": {
@@ -10713,7 +10713,7 @@
         "fullTime": 9290,
         "id": 24,
         "name": "Spiced Lamb",
-        "mainImageUrl": "/data/images/Recipe/PHO_bhuna-gosht-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_bhuna-gosht-wm.jpg"
     },
     {
         "properties": {
@@ -11674,7 +11674,7 @@
         "fullTime": 9823,
         "id": 27,
         "name": "Apple and Raisin Lamb Chops",
-        "mainImageUrl": "/data/images/Recipe/PHO_apple-raisin-lamb-chops-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_apple-raisin-lamb-chops-wm.jpg"
     },
     {
         "properties": {
@@ -12399,7 +12399,7 @@
         "fullTime": 810,
         "id": 29,
         "name": "Spicy Three Pepper Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_three-pepper-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_three-pepper-salad-wm.jpg"
     },
     {
         "properties": {
@@ -13159,7 +13159,7 @@
         "fullTime": 4180,
         "id": 30,
         "name": "Brigadeiro",
-        "mainImageUrl": "/data/images/Recipe/PHO_brigadeiro-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_brigadeiro-wm.jpg"
     },
     {
         "properties": {
@@ -13920,7 +13920,7 @@
         "fullTime": 1230,
         "id": 35,
         "name": "Mixed Vegetable Raita",
-        "mainImageUrl": "/data/images/Recipe/PHO_mixed-vegetable-raita-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_mixed-vegetable-raita-wm.jpg"
     },
     {
         "properties": {
@@ -14633,7 +14633,7 @@
         "fullTime": 2490,
         "id": 36,
         "name": "Cheesy Basil Chicken",
-        "mainImageUrl": "/data/images/Recipe/PHO_cheesy-basil-chicken.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_cheesy-basil-chicken.jpg"
     },
     {
         "properties": {
@@ -15546,7 +15546,7 @@
         "fullTime": 2175,
         "id": 38,
         "name": "Creamy Chicken",
-        "mainImageUrl": "/data/images/Recipe/PHO_creamy-chicken-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_creamy-chicken-wm.jpg"
     },
     {
         "properties": {
@@ -16542,7 +16542,7 @@
         "fullTime": 2190,
         "id": 40,
         "name": "Balsamic Lamb",
-        "mainImageUrl": "/data/images/Recipe/PHO_balsamic-lamb-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_balsamic-lamb-wm.jpg"
     },
     {
         "properties": {
@@ -17944,7 +17944,7 @@
         "fullTime": 3035,
         "id": 45,
         "name": "Quinoa Fruit Salad with Honey Lime Dressing",
-        "mainImageUrl": "/data/images/Recipe/PHO_quinoa-fruit-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_quinoa-fruit-salad-wm.jpg"
     },
     {
         "properties": {
@@ -18830,7 +18830,7 @@
         "fullTime": 5700,
         "id": 50,
         "name": "Red Onion Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_red-onion-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_red-onion-salad-wm.jpg"
     },
     {
         "properties": {
@@ -20794,7 +20794,7 @@
         "fullTime": 3180,
         "id": 52,
         "name": "Cardamom And Lemon Meatballs",
-        "mainImageUrl": "/data/images/Recipe/PHO_cardamom-lemon-meatballs-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_cardamom-lemon-meatballs-wm.jpg"
     },
     {
         "properties": {
@@ -21700,7 +21700,7 @@
         "fullTime": 1905,
         "id": 60,
         "name": "Roast Potatoes with Herbed Sauce",
-        "mainImageUrl": "/data/images/Recipe/PHO_potatoes-herbed-sauce-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_potatoes-herbed-sauce-wm.jpg"
     },
     {
         "properties": {
@@ -22420,7 +22420,7 @@
         "fullTime": 600,
         "id": 61,
         "name": "Spinach Stir Fry",
-        "mainImageUrl": "/data/images/Recipe/PHO_garlic-ginger-spinach-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_garlic-ginger-spinach-wm.jpg"
     },
     {
         "properties": {
@@ -23016,7 +23016,7 @@
         "fullTime": 1920,
         "id": 62,
         "name": "Tangy Roasted Carrots",
-        "mainImageUrl": "/data/images/Recipe/PHO_tangy-roasted-carrots-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_tangy-roasted-carrots-wm.jpg"
     },
     {
         "properties": {
@@ -23721,7 +23721,7 @@
         "fullTime": 630,
         "id": 63,
         "name": "Creamy Spinach",
-        "mainImageUrl": "/data/images/Recipe/PHO_creamy-spinach-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_creamy-spinach-wm.jpg"
     },
     {
         "properties": {
@@ -25293,7 +25293,7 @@
         "fullTime": 2890,
         "id": 71,
         "name": "Quinoa With Kohlrabi",
-        "mainImageUrl": "/data/images/Recipe/PHO_quinoa-kohlrabi-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_quinoa-kohlrabi-wm.jpg"
     },
     {
         "properties": {
@@ -25916,7 +25916,7 @@
         "fullTime": 1465,
         "id": 80,
         "name": "Grated Carrot Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_grated-carrot-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_grated-carrot-salad-wm.jpg"
     },
     {
         "properties": {
@@ -26398,7 +26398,7 @@
         "fullTime": 1800,
         "id": 82,
         "name": "Baked Carrots",
-        "mainImageUrl": "/data/images/Recipe/PHO_baked-carrots-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_baked-carrots-wm.jpg"
     },
     {
         "properties": {
@@ -26917,7 +26917,7 @@
         "fullTime": 6210,
         "id": 83,
         "name": "Baked Potatoes with Cheese",
-        "mainImageUrl": "/data/images/Recipe/PHO_baked-potatoes-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_baked-potatoes-wm.jpg"
     },
     {
         "properties": {
@@ -27505,7 +27505,7 @@
         "fullTime": 1230,
         "id": 84,
         "name": "Cucumber And Onion Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_cucumber-onion-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_cucumber-onion-salad-wm.jpg"
     },
     {
         "properties": {
@@ -28016,7 +28016,7 @@
         "fullTime": 2775,
         "id": 85,
         "name": "Oven Baked Potato Fries",
-        "mainImageUrl": "/data/images/Recipe/PHO_oven-baked-fries-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_oven-baked-fries-wm.jpg"
     },
     {
         "properties": {
@@ -28958,7 +28958,7 @@
         "fullTime": 1740,
         "id": 86,
         "name": "Cold Green Bean Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_green-bean-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_green-bean-salad-wm.jpg"
     },
     {
         "properties": {
@@ -30040,7 +30040,7 @@
         "fullTime": 2625,
         "id": 87,
         "name": "Creamy Potato Salad",
-        "mainImageUrl": "/data/images/Recipe/PHO_creamy-potato-salad-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_creamy-potato-salad-wm.jpg"
     },
     {
         "properties": {
@@ -31327,7 +31327,7 @@
         "fullTime": 3870,
         "id": 97,
         "name": "Black Bean Sweet Potato Chili",
-        "mainImageUrl": "/data/images/Recipe/PHO_black-bean-sweet-potato-chili-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_black-bean-sweet-potato-chili-wm.jpg"
     },
     {
         "properties": {
@@ -31962,7 +31962,7 @@
         "fullTime": 2400,
         "id": 112,
         "name": "Roasted Cauliflower",
-        "mainImageUrl": "/data/images/Recipe/PHO_roasted-cauliflower-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_roasted-cauliflower-wm.jpg"
     },
     {
         "properties": {
@@ -32850,7 +32850,7 @@
         "fullTime": 2550,
         "id": 131,
         "name": "Cream Of Broccoli Soup",
-        "mainImageUrl": "/data/images/Recipe/PHO_cream-broccoli-soup-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_cream-broccoli-soup-wm.jpg"
     },
     {
         "properties": {
@@ -33805,7 +33805,7 @@
         "fullTime": 4470,
         "id": 145,
         "name": "Bacon Wrapped Pork Roast",
-        "mainImageUrl": "/data/images/Recipe/PHO_bacon-pork-roast-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_bacon-pork-roast-wm.jpg"
     },
     {
         "properties": {
@@ -34671,7 +34671,7 @@
         "fullTime": 1650,
         "id": 153,
         "name": "Spaghetti with Tomato Sauce",
-        "mainImageUrl": "/data/images/Recipe/PHO_spaghetti-tomato-sauce-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_spaghetti-tomato-sauce-wm.jpg"
     },
     {
         "properties": {
@@ -35707,7 +35707,7 @@
         "fullTime": 2410,
         "id": 154,
         "name": "Spaghetti with Veggie Ragu",
-        "mainImageUrl": "/data/images/Recipe/PHO_spaghetti-vegetables-ragu-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_spaghetti-vegetables-ragu-wm.jpg"
     },
     {
         "properties": {
@@ -36590,7 +36590,7 @@
         "fullTime": 2200,
         "id": 155,
         "name": "Penne with dried cherry tomatoes",
-        "mainImageUrl": "/data/images/Recipe/PHO_penne-cherry-tomatoes-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_penne-cherry-tomatoes-wm.jpg"
     },
     {
         "properties": {
@@ -37555,7 +37555,7 @@
         "fullTime": 2220,
         "id": 156,
         "name": "Spaghetti with Almonds",
-        "mainImageUrl": "/data/images/Recipe/PHO_spaghetti-almonds-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_spaghetti-almonds-wm.jpg"
     },
     {
         "properties": {
@@ -38485,7 +38485,7 @@
         "fullTime": 2180,
         "id": 167,
         "name": "Egg Bhurji",
-        "mainImageUrl": "/data/images/Recipe/PHO_anda-bhurji-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_anda-bhurji-wm.jpg"
     },
     {
         "properties": {
@@ -39613,7 +39613,7 @@
         "fullTime": 8400,
         "id": 168,
         "name": "Saag Chicken",
-        "mainImageUrl": "/data/images/Recipe/PHO_saag-chicken-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_saag-chicken-wm.jpg"
     },
     {
         "properties": {
@@ -40229,7 +40229,7 @@
         "fullTime": 3780,
         "id": 169,
         "name": "Lamb Korma",
-        "mainImageUrl": "/data/images/Recipe/PHO_mutton-korma-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_mutton-korma-wm.jpg"
     },
     {
         "properties": {
@@ -41374,7 +41374,7 @@
         "fullTime": 4800,
         "id": 171,
         "name": "Vegetable Jalfrezi",
-        "mainImageUrl": "/data/images/Recipe/PHO_vegetable-jalfrezi-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_vegetable-jalfrezi-wm.jpg"
     },
     {
         "properties": {
@@ -42310,7 +42310,7 @@
         "fullTime": 4800,
         "id": 173,
         "name": "Aloo Capsicum",
-        "mainImageUrl": "/data/images/Recipe/PHO_aloo-capsicum-sabzi-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_aloo-capsicum-sabzi-wm.jpg"
     },
     {
         "properties": {
@@ -42963,7 +42963,7 @@
         "fullTime": 870,
         "id": 175,
         "name": "Tabbouleh",
-        "mainImageUrl": "/data/images/Recipe/PHO_tabbouleh-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_tabbouleh-wm.jpg"
     },
     {
         "properties": {
@@ -44223,6 +44223,6 @@
         "fullTime": 3120,
         "id": 190,
         "name": "Braised Pork and Eggs",
-        "mainImageUrl": "/data/images/Recipe/PHO_caramelised-pork-eggs-wm.jpg"
+        "mainImageUrl": "http://api.digimeals.com/data/images/Recipe/PHO_caramelised-pork-eggs-wm.jpg"
     }
 ]
