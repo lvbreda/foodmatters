@@ -82,12 +82,14 @@ function getWasteOfProducts(recipe1, recipe2) {
     _.forEach(ingredients1, (ingredient1) => {
         if (ingredient1) {
             const ingredient2 = _.find(ingredients2, { id: ingredient1.id });
+            const closest500 = Math.ceil((ingredient1.amount + ingredient2.amount)/500)*500;
+            const closest6 = Math.ceil((ingredient1.amount + ingredient2.amount)/6)*6;
             if (ingredient2) {
                 if (ingredient1.unit === null) {
-                    let diff = Math.abs(ingredient1.amount - ingredient2.amount);
+                    let diff = Math.abs(closest6-(ingredient1.amount + ingredient2.amount));
                     waist += diff;
                 } else {
-                    let diff = Math.abs(ingredient1.amount - ingredient2.amount);
+                    let diff = Math.abs(closest500-(ingredient1.amount + ingredient2.amount));
                     waist += diff / 100;
                 }
             } else {

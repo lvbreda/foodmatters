@@ -84,14 +84,22 @@ router.get('/:id/grocery', async (req,res)=>{
 })
 
 function createMealplan(days){
+    
     const firstMeal = randomFirstMeal(matched);
-
+    let currentGoodMeals = matched[firstMeal];
     const meals = [recipesKeyed[firstMeal]];
-    const matches = matched[firstMeal].slice(0,days-1);
 
-    for(var i = 0; i < matches.length; i++){
-        meals.push(recipesKeyed[matches[i].id])
+    let currentMeal = recipesKeyed[matched[firstMeal].slice(0,1)[0].id];
+    for(var i = 0; i< days-1;i++){
+        meals.push(currentMeal)
+        const temp = _.keyBy(matched[currentMeal.id],'id');
+        for(var o in currentGoodMeals){
+            currentGoodMeals[o].value += temp[currentGoodMeals[o].id].value
+        }
+        currentGoodMeals = _.sortBy(currentGoodMeals,'value');
+        currentMeal = recipesKeyed[currentGoodMeals.slice(0,1)[0].id];
     }
+    
     return meals;
 }
 
