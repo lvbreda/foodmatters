@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
@@ -12,6 +12,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "lowdb": "^1.0.0",
+    "moment": "^2.22.2",
     "ogmneo": "^1.0.4",
     "uuid-v4": "^0.1.0"
   }

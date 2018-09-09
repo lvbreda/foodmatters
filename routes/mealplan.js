@@ -2,6 +2,7 @@ const express = require('express')
 const router = express.Router()
 const uuidv4 = require('uuid-v4')
 const _ = require('lodash')
+const moment = require('moment')
 
 const ingredients = require('../ingredient.json');
 const recipes = require('../recipes.json');
@@ -41,10 +42,16 @@ function shuffle(array) {
   }
 
 router.get('/generate/:days', async (req,res)=>{
-    const mealplan = createMealplan(Number(req.params.days));
+    let mealplan = createMealplan(Number(req.params.days));
+    mealplan = shuffle(mealplan);
+
+    for(var i = 0;i<mealplan.length;i++){
+        mealplan[i].date = moment().add(i, 'days').format('dddd D MMMM');
+    }
+
     const output = {
         id: uuidv4(),
-        plan:shuffle(mealplan)
+        plan:mealplan
     }
     db.get('mealplans')
         .push(output)
@@ -110,7 +117,7 @@ function createMealplan(days){
             count++;
         }
     }
-    
+
     return meals;
 }
 
